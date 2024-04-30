@@ -1,0 +1,11 @@
+[package]
+name = "dronecan"
+description = "DroneCAN Rust Implementation"
+categories = ["embedded", "hardware-support", "no-std"]
+keywords = ["CAN", "Drone", "UAV", "UAVCAN", "DroneCAN"]
+version = "0.0.0"
+edition = "2021"
+readme = "README.md"
+license = "MIT OR Apache-2.0"
+
+[dependencies]
